@@ -11,3 +11,5 @@ augmentation and GAN-generated images improved baseline results. Our study shows
 The baseline data contains the original dataset. The dc gans output folder contains images generated for each class by DC GAN. The WGAN-GP output folder contains images generated for each class by WGAN-GP. The experiment folder contains 8 notebooks, each for one of the 8 experiments performed. The image generation folder contains the notebooks for WGAN-GP image generation experiment adapted from (https://github.com/margaretmz). The DC-GAN image generation code is adapted from (https://github.com/spmallick/learnopencv/tree/master/Deep-Convolutional-GAN/PyTorch)
 
 Rename file is an utility for renaming generated images to the appropraite format
+
+Paper: https://arxiv.org/abs/2207.14580
